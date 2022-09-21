@@ -2,3 +2,4 @@
 
 ## Integrantes
 - Yury Zamora
+- Juan Naranjo
