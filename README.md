@@ -1,7 +1,8 @@
 # examen_integrador
 
-## Integrantes
+## Integrantes grupo 7 
 - Yury Zamora
 - Juan Naranjo
 - Fernando Farfan
+- Juan Sebastian Molina
 
